@@ -57,3 +57,10 @@ rm -rf %{buildroot}
 %doc license.txt
 %{_gamesdatadir}/%{oname}
 
+
+
+%changelog
+* Mon Nov 14 2011 Andrey Bondrov <abondrov@mandriva.org> 1.9.2-1
++ Revision: 730517
+- imported package eternallands-data
+
