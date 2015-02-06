@@ -8,7 +8,7 @@
 Summary:	Data files to play Eternal Lands
 Name:		%{oname}-data
 Version:	1.9.3
-Release:	2
+Release:	3
 License:	QTPL-based
 Group:		Games/Adventure
 Url:		http://www.eternal-lands.com
