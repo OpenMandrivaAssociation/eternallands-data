@@ -11,7 +11,7 @@ Version:	1.9.3
 Release:	3
 License:	QTPL-based
 Group:		Games/Adventure
-Url:		http://www.eternal-lands.com
+Url:		https://www.eternal-lands.com
 Source0:	http://www.eternal-lands.com/el_linux_%{dversion}.zip
 Source1:	http://www.eternallands.co.uk/EL_sound_%{sversion}.zip
 Source10:	http://www.eternallands.co.uk/music_full.zip
